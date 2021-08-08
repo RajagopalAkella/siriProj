@@ -4,13 +4,5 @@
         <members>*</members>
         <name>AuraDefinitionBundle</name>
     </types>
-    <types>
-        <members>*</members>
-        <name>CustomApplication</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Layout</name>
-    </types>    
     <version>51.0</version>
 </Package>
